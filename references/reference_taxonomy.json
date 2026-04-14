@@ -1,0 +1,88 @@
+{
+  "source_priority": [
+    "Scopus ASJC",
+    "Web of Science Research Areas"
+  ],
+  "themes": {
+    "PNM-孔隙网络模型": {
+      "scopus_asjc": ["Modeling and Simulation", "Computational Mechanics"],
+      "wos_research_areas": ["Engineering", "Mechanics"],
+      "prior_terms": ["pore network", "pore-network", "openpnm", "network modelling", "network model"]
+    },
+    "LBM-格子玻尔兹曼": {
+      "scopus_asjc": ["Computational Mechanics", "Fluid Flow and Transfer Processes"],
+      "wos_research_areas": ["Mechanics", "Physics"],
+      "prior_terms": ["lattice boltzmann", "lbm", "multiphase lbm", "boltzmann method"]
+    },
+    "PINN-物理信息神经网络": {
+      "scopus_asjc": ["Artificial Intelligence", "Computational Mathematics"],
+      "wos_research_areas": ["Computer Science", "Mathematics"],
+      "prior_terms": ["physics-informed", "pinn", "physics informed neural network"]
+    },
+    "ML-机器学习与数据驱动": {
+      "scopus_asjc": ["Artificial Intelligence", "Computer Vision and Pattern Recognition"],
+      "wos_research_areas": ["Computer Science", "Automation Control Systems"],
+      "prior_terms": ["machine learning", "deep learning", "data-driven", "neural network", "reinforcement learning"]
+    },
+    "计算机算法": {
+      "scopus_asjc": ["Software", "Computational Theory and Mathematics"],
+      "wos_research_areas": ["Computer Science", "Mathematics"],
+      "prior_terms": ["simulated annealing", "automatic differentiation", "sparse solver", "linear algebra", "matrix decomposition", "scheduling"]
+    },
+    "电化学多孔电极与浸润": {
+      "scopus_asjc": ["Electrochemistry", "Energy Engineering and Power Technology"],
+      "wos_research_areas": ["Electrochemistry", "Energy Fuels"],
+      "prior_terms": ["li-ion battery", "electrolyte filling", "pouch cell", "cathode", "gas diffusion layer", "fuel cell", "graphite electrode", "li plating", "anode"]
+    },
+    "自发渗吸与毛细现象": {
+      "scopus_asjc": ["Condensed Matter Physics", "Fluid Flow and Transfer Processes"],
+      "wos_research_areas": ["Physics", "Engineering"],
+      "prior_terms": ["spontaneous imbibition", "capillary rise", "capillary pressure", "wetting", "drainage"]
+    },
+    "孔隙结构与数字岩心": {
+      "scopus_asjc": ["Geotechnical Engineering and Engineering Geology", "Instrumentation"],
+      "wos_research_areas": ["Geology", "Imaging Science"],
+      "prior_terms": ["digital rock", "micro-ct", "tomography", "segmentation", "pore structure", "pore-size distribution", "image-based modelling", "random sphere pack", "voxelization", "meshing algorithm", "heterogeneous materials", "microstructure", "soil structure"]
+    },
+    "多孔介质基础与通用数值方法": {
+      "scopus_asjc": ["Fluid Flow and Transfer Processes", "Computational Mechanics"],
+      "wos_research_areas": ["Engineering", "Mechanics"],
+      "prior_terms": ["porous media", "porous flow", "multiphase flow", "permeable media", "flow through a porous medium", "two-phase flow", "gas-liquid", "slug flow", "electrokinetic", "special core analysis", "multiphase materials", "transport properties", "effective physical properties"]
+    },
+    "迂曲度与有效输运": {
+      "scopus_asjc": ["Transport Phenomena", "Materials Science"],
+      "wos_research_areas": ["Materials Science", "Physics"],
+      "prior_terms": ["tortuosity", "formation factor", "effective transport", "diffusivity"]
+    },
+    "页岩与纳米孔流动": {
+      "scopus_asjc": ["Geology", "Fuel Technology"],
+      "wos_research_areas": ["Geology", "Energy Fuels"],
+      "prior_terms": ["shale", "nanopore", "tight formation", "shale gas"]
+    },
+    "反应传输与吸附": {
+      "scopus_asjc": ["Environmental Engineering", "Geochemistry and Petrology"],
+      "wos_research_areas": ["Chemistry", "Geology"],
+      "prior_terms": ["reactive transport", "adsorption", "dissolution", "sorption"]
+    },
+    "流固耦合与空化": {
+      "scopus_asjc": ["Computational Mechanics", "Mechanical Engineering"],
+      "wos_research_areas": ["Engineering", "Mechanics"],
+      "prior_terms": ["fluid-structure interaction", "cavitation", "ghost fluid", "one-fluid model", "compressible multiphase flow"]
+    },
+    "CFD与数值方法参考": {
+      "scopus_asjc": ["Computational Mechanics", "Applied Mathematics"],
+      "wos_research_areas": ["Engineering", "Mathematics"],
+      "prior_terms": ["computational fluid dynamics", "navier-stokes", "finite element", "discontinuous galerkin", "backward-facing step flow", "stokes flow", "shallow water", "explicit interface"]
+    },
+    "机器人与仿生运动": {
+      "scopus_asjc": ["Control and Systems Engineering", "Biomedical Engineering"],
+      "wos_research_areas": ["Robotics", "Engineering"],
+      "prior_terms": ["bipedal robot", "gait", "swimmer", "flapping swimmer", "bio-inspired"]
+    },
+    "腐蚀与材料": {
+      "scopus_asjc": ["Surfaces, Coatings and Films", "Materials Chemistry"],
+      "wos_research_areas": ["Materials Science", "Electrochemistry"],
+      "prior_terms": ["corrosion", "alloy", "surface film", "materials degradation"]
+    }
+  }
+}

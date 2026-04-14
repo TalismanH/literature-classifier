@@ -1,0 +1,33 @@
+{
+  "manual_overrides": {
+    "example.pdf": {
+      "doc_type": "期刊论文",
+      "primary_theme": "PNM-孔隙网络模型",
+      "doc_subtype": "",
+      "reason": "manual fix after dry-run review"
+    },
+    "new-topic-paper.pdf": {
+      "doc_type": "期刊论文",
+      "primary_theme": "新主题-SPH",
+      "doc_subtype": "",
+      "reason": "promote generated topic to stable folder"
+    }
+  },
+  "theme_aliases": {
+    "CFD与数值方法参考": [
+      "backward-facing step flow",
+      "compressible flow solver"
+    ],
+    "计算机算法": [
+      "sparse direct solver",
+      "automatic differentiation"
+    ]
+  },
+  "theme_promotions": {
+    "新主题-SPH": "SPH-光滑粒子流体动力学",
+    "新主题-effective-viscosity-hypothesis": "流变与有效黏度理论",
+    "新主题-Advances-Mathematical-and": "数学方法与高性能计算",
+    "新主题-Electrokinetic": "电动输运与微流控",
+    "新主题-the-unit-n-sphere": "随机堆积与球体覆盖"
+  }
+}
